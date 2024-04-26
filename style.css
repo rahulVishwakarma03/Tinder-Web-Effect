@@ -190,7 +190,7 @@ button i {
   font-size: 20px;
 }
 button {
-  width: 170px;
+  width: 40%;
   height: 65px;
   margin-top: 10px;
   
@@ -200,7 +200,7 @@ button i {
 }
 #name, #age {
   letter-spacing: -4px;
-  font-size: 4rem;
+  font-size: 3rem;
   margin-bottom: 0px;
 }
 }
