@@ -175,3 +175,32 @@ button i {
 .overflow {
   overflow: hidden;
 }
+@media only screen and (max-width : 414px){
+ #container{
+  height: 100%;
+  width: 100%;
+ }
+ #cover, #imgContainer, #imgContainer img{
+  height: 100%;
+  width: 100%;
+ }
+ #location,
+#key,
+#bio, #about {
+  font-size: 20px;
+}
+button {
+  width: 183px;
+  height: 65px;
+  margin-top: 10px;
+  margin-left: 1px;
+}
+button i {
+  font-size: 40px;
+}
+#name, #age {
+  letter-spacing: -4px;
+  font-size: 5rem;
+  margin-bottom: 0px;
+}
+}
