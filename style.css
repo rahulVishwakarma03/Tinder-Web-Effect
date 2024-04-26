@@ -187,10 +187,10 @@ button i {
  #location,
 #key,
 #bio, #about {
-  font-size: 20px;
+  font-size: 17px;
 }
 button {
-  width: 40%;
+  width: 49%;
   height: 65px;
   margin-top: 10px;
   
@@ -200,7 +200,7 @@ button i {
 }
 #name, #age {
   letter-spacing: -4px;
-  font-size: 3rem;
+  font-size: 4rem;
   margin-bottom: 0px;
 }
 }
